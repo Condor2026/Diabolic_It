@@ -1,4 +1,6 @@
-# Dependencias para Diabolic_v17
-flask>=2.0.0
+# Dipendenze per DIABOLIC ITALIA v6.0
+# Installa con: pip install -r requirements.txt
+
 requests>=2.25.0
-beautifulsoup4>=4.9.0
+beautifulsoup4>=4.9.3
+flask>=2.0.0
