@@ -1,1 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
 
+# Datos generados por la herramienta
+*.json
+!requirements.json
+diabolic_italia.json
+estado_periodicos_italia.json
+export_italia.json
+export_italia.csv
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
