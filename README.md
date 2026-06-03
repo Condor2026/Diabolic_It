@@ -1,4 +1,4 @@
-```markdown
+
 # 🔥 DIABOLIC ITALIA v6.0
 
 ![Version](https://badgen.net/badge/version/6.0/red)
