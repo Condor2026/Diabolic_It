@@ -7,8 +7,8 @@
 ![OSINT](https://badgen.net/badge/OSINT/S%C3%AD/brightgreen)
 ![Platform](https://badgen.net/badge/platform/Linux%20%7C%20Termux/lightgrey)
 ![PRs Welcome](https://badgen.net/badge/PRs/welcome/brightgreen)
-![Last Commit](https://badgen.net/github/last-commit/Condor2026/Diabolic_Italia)
-![Code Size](https://badgen.net/github/code-size/Condor2026/Diabolic_Italia)
+![Last Commit](https://badgen.net/github/last-commit/Condor2026/Diabolic_It)
+![Code Size](https://badgen.net/github/code-size/Condor2026/Diabolic_It)
 
 **DIABOLIC ITALIA** è uno strumento OSINT passivo e analitico progettato per monitorare automaticamente oltre 70 giornali digitali italiani (nazionali, regionali e locali), estraendo e processando notizie di cronaca nera per rilevare modelli criminali, tendenze geografiche e connessioni tra incidenti.
 
