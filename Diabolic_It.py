@@ -4,6 +4,45 @@
 """
 🔥 DIABOLIC ITALIA v6.0 - OSINT ANALYTICS PLATFORM
 Monitorización de criminalidad en Italia (versión estable)
+
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2025-2026 Condor2026 / SpectrumSecurity
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+================================================================================
+🔍 DIABOLIC Italia v6.0 - OSINT ANALYTICS PLATFORM
+================================================================================
+📊 Análisis automatizado de patrones delictivos en italia
+================================================================================
+🎯 PROPÓSITO:
+    Herramienta OSINT de código abierto que monitoriza 90+ periódicos digitales
+    para detectar, clasificar y visualizar tendencias delictivas..
+
+⚙️  FUNCIONALIDADES CLAVE:
+    • Scraping inteligente con detección automática de URLs
+    • Clasificación de delitos (robos, estafas, narcotráfico, violencia...)
+    • Detección de patrones y conexiones entre incidentes
+    • Visualización web interactiva con gráficos dinámicos
+    • Exportación de datos (JSON/CSV)
+    • Menú terminal con 10 comandos avanzados
+
+🔐 PRINCIPIOS ÉTICOS:
+    • 100% datos públicos (solo noticias digitales)
+    • Cero almacenamiento de información personal
+    • Transparencia total (código abierto y auditable)
+    • Filosofía: "Un gran poder conlleva una gran responsabilidad"
+
+📈 APLICACIONES:
+    • Periodismo de datos · Criminología · Prevención ciudadana
+    • Asociaciones vecinales · Investigación social
+
+⚖️  LEGALIDAD:
+    Cumple con RGPD/LOPDGDD al no tratar datos personales.
+    El usuario es el único responsable del uso de la herramienta.
+    
 """
 
 import os
