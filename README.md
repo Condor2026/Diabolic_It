@@ -4,7 +4,7 @@
 ![Version](https://badgen.net/badge/version/6.0/red)
 ![License](https://badgen.net/badge/license/GPLv3/blue)
 ![Python](https://badgen.net/badge/python/3.8%2B/blue)
-![OSINT](https://badgen.net/badge/OSINT/S%C3%AD/brightgreen)
+![OSINT](https://img.shields.io/badge/OSINT-Pasivo%20%7C%20Analítico-blueviolet)
 ![Platform](https://badgen.net/badge/platform/Linux%20%7C%20Termux/lightgrey)
 ![PRs Welcome](https://badgen.net/badge/PRs/welcome/brightgreen)
 ![Last Commit](https://badgen.net/github/last-commit/Condor2026/Diabolic_It)
