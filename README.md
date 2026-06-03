@@ -1,11 +1,19 @@
-
 ```markdown
 # 🔥 DIABOLIC ITALIA v6.0
 
-[![Version](https://img.shields.io/badge/version-6.0-red)](https://github.com/Condor2026/Diabolic_Italia)
+[![Version](https://img.shields.io/badge/version-6.0-red)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/python-3.8+-green)](https://python.org)
-[![OSINT](https://img.shields.io/badge/OSINT-Passivo%20%7C%20Analitico-blueviolet)](https://es.wikipedia.org/wiki/OSINT)
+[![OSINT](https://img.shields.io/badge/OSINT-Passivo%20%7C%20Analitico-blueviolet)](https://it.wikipedia.org/wiki/OSINT)
+[![GitHub release](https://img.shields.io/badge/release-v6.0-brightgreen)](https://github.com/Condor2026/Diabolic_Italia/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Condor2026/Diabolic_Italia)](https://github.com/Condor2026/Diabolic_Italia/commits/main)
+[![GitHub code size](https://img.shields.io/github/languages/code-size/Condor2026/Diabolic_Italia)](https://github.com/Condor2026/Diabolic_Italia)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Made with Flask](https://img.shields.io/badge/Made%20with-Flask-black)](https://flask.palletsprojects.com/)
+[![Termux](https://img.shields.io/badge/Termux-Supported-blue)](https://termux.com)
+[![Linux](https://img.shields.io/badge/Linux-Supported-green)](https://www.linux.org)
+[![GitHub stars](https://img.shields.io/github/stars/Condor2026/Diabolic_Italia?style=social)](https://github.com/Condor2026/Diabolic_Italia/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Condor2026/Diabolic_Italia?style=social)](https://github.com/Condor2026/Diabolic_Italia/network/members)
 
 **DIABOLIC ITALIA** è uno strumento OSINT passivo e analitico progettato per monitorare automaticamente oltre 70 giornali digitali italiani (nazionali, regionali e locali), estraendo e processando notizie di cronaca nera per rilevare modelli criminali, tendenze geografiche e connessioni tra incidenti.
 
