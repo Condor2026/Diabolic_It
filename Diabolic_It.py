@@ -1058,10 +1058,10 @@ if __name__ == '__main__':
     print(f"""
 {Color.ROJO}
 ╔══════════════════════════════════════════════════════════════════╗
-║  🔥 DIABOLIC ITALIA v{VERSION} - 70+ PERIÓDICOS 🔥                       ║
+║         🔥 DIABOLIC ITALIA v{VERSION} - 70+ PERIÓDICOS 🔥        ║
 ║  ⚡ CRONACA NERA · MAFIA · NARCOTRAFFICO · VIOLENZA               ║
-║  🏛️ TODAS LAS REGIONES · 70+ FUENTES · ALERTAS EN TIEMPO REAL      ║
-║                                         - By Condor2026          ║
+║  🏛️ TODAS LAS REGIONES · 70+ FUENTES · ALERTAS EN TIEMPO REAL    ║
+║    - By Condor2026                                               ║
 ║                                            •SpectrumSecurity•    ║
 ╚══════════════════════════════════════════════════════════════════╝
 {Color.RESET}""")
