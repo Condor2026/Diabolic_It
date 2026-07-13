@@ -221,4 +221,4 @@ Consulta il file [`LICENSE`](LICENSE) per il testo completo della licenza.
 - Comunità di ricerca OSINT in Italia.
 
 ⭐ **Se il progetto ti piace, non dimenticare di lasciare una stella su GitHub!**
-```
+
